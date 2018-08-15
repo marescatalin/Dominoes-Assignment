@@ -1,1 +1,1 @@
-# Dominoes-Assignment
+# Functional Programming Assignment
